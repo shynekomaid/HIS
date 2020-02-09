@@ -1,4 +1,7 @@
 #!/bin/bash
+cd $1
+upwd=$(pwd)
+cd upwd
 chmod -R 775 scripts/
 upwd=$(pwd)
 log() {
