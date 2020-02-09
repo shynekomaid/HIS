@@ -1,2 +1,2 @@
-# -HIS-Haste-Install-Scripts
+# HIS Haste-Install-Scripts
 A simlpe system installer and configurator
